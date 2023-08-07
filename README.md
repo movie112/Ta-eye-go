@@ -2,8 +2,8 @@
 ## 🥉22학년도 컴퓨터공학부 졸업작품 동상🥉
 
 #### 시각장애인용 버스 승하차 예약 어플
-> - [android](https://github.com/Ta-eye-go/android)
-> - [server](https://github.com/Ta-eye-go/server)
+> - [Android](https://github.com/Ta-eye-go/android)
+> - [Server](https://github.com/Ta-eye-go/server)
 
 #### 다음 기능을 제공합니다.
 - 실시간 버스 정보
